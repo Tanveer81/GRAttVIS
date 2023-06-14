@@ -80,10 +80,12 @@ VITA([Apache-2.0 License](https://github.com/sukjunhwang/VITA/blob/main/LICENSE)
 
 If you find GRAtt-VIS useful in your research and wish to refer to the baseline results, please use the following BibTeX entry as a citation.
 ```BibTeX
-@misc{hannan2023grattvis,
-      title={GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation}, 
-      author={Tanveer Hannan and Rajat Koner and Maximilian Bernhard and Suprosanna Shit and Bjoern Menze and Volker Tresp and Matthias Schubert and Thomas Seidl},
-      year={2023}, eprint={2305.17096}, archivePrefix={arXiv}, primaryClass={cs.CV}}
+@article{hannan2023gratt,
+  title={GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation},
+  author={Hannan, Tanveer and Koner, Rajat and Bernhard, Maximilian and Shit, Suprosanna and Menze, Bjoern and Tresp, Volker and Schubert, Matthias and Seidl, Thomas},
+  journal={arXiv preprint arXiv:2305.17096},
+  year={2023}
+}
 ```
 
 ## Acknowledgement
