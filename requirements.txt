@@ -1,0 +1,8 @@
+cython
+scipy
+shapely==1.8.4
+timm
+h5py
+submitit
+scikit-image
+setuptools==59.4.0
