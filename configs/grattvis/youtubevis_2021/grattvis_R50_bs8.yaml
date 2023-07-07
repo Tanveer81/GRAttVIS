@@ -1,6 +1,6 @@
 _BASE_: ../../vita/youtubevis_2021/vita_R50_bs8.yaml
 MODEL:
-  META_ARCHITECTURE: "Genvis"
+  META_ARCHITECTURE: "Grattvis"
   WEIGHTS: "vita_r50_ytvis2021.pth"
   VITA:
     ENC_WINDOW_SIZE: 0

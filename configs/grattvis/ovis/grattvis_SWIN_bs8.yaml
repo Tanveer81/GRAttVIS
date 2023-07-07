@@ -1,6 +1,6 @@
 _BASE_: ../../vita/ovis/vita_SWIN_bs8.yaml
 MODEL:
-  META_ARCHITECTURE: "Genvis"
+  META_ARCHITECTURE: "Grattvis"
   WEIGHTS: "vita_swin_ovis.pth"
   VITA:
     ENC_WINDOW_SIZE: 0

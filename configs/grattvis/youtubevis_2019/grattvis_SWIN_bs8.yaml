@@ -1,6 +1,6 @@
 _BASE_: ../../vita/youtubevis_2019/vita_SWIN_bs8.yaml
 MODEL:
-  META_ARCHITECTURE: "Genvis"
+  META_ARCHITECTURE: "Grattvis"
   WEIGHTS: "vita_swin_ytvis2019.pth"
   VITA:
     ENC_WINDOW_SIZE: 0
