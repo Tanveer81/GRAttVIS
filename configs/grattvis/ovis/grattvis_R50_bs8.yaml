@@ -8,7 +8,7 @@ MODEL:
   GENVIS:
     LEN_CLIP_WINDOW: 1
     GATED_PROP: True
-    USE_MEM: True
+    USE_MEM: False
     GATE_WEIGHT: 0.0
 
 DATASETS:
